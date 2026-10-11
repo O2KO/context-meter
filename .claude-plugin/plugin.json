@@ -1,0 +1,1 @@
+{ "name": "context-meter", "version": "0.4.0", "description": "Заполненность контекстного окна: панель и строка состояния", "types": "./types/index.d.ts" }

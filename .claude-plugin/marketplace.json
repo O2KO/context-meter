@@ -1,0 +1,5 @@
+{
+  "name": "oko-mods",
+  "owner": { "name": "Oleg Kolesnikov" },
+  "plugins": [{ "name": "context-meter", "source": "./" }]
+}
